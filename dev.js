@@ -20,3 +20,4 @@ while (i < 6) {
 		console.log(nombre + " est trop petit. Il vous restent: " + (6-i) + " essais.");//instructions executees quand le nombre saisie est trop petit
 	}
 }
+console.log(":( Perdu...La solution était " + solution); // s'affiche apres 6 essais infructueux 
